@@ -1,0 +1,34 @@
+[
+  {
+    "Activity": "Buy",
+    "NUMBER": "1AA02245",
+    "Account* Type": 1,
+    "Interest": 1.25,
+    "Transaction": "B1235",
+    "Net Amount": 100000,
+    "Rate": 99.0,
+    "Quantity": 1010.10101,
+    "Settlement Date": "12-06-2024",
+    "Maturity Date": "12-06-2025",
+    "Security_ID": "17552FD57",
+    "Issue Date": "14-07-2024",
+    "Trade Date": "12-06-2024",
+    "Type": "CANCELEDTRADECONFIRMATION"
+  },
+  {
+    "Activity": "Sell",
+    "NUMBER": "1AA02245",
+    "Account* Type": 1,
+    "Interest": 2.0,
+    "Transaction": "B1235",
+    "Net Amount": 100250.0,
+    "Rate": 45.0,
+    "Quantity": 2227.777778,
+    "Settlement Date": "12-06-2024",
+    "Maturity Date": "13-07-2025",
+    "Security_ID": "17552FD57",
+    "Issue Date": "14-07-2024",
+    "Trade Date": "13-07-2024",
+    "Type": "TRADECONFIRMATION"
+  }
+]
